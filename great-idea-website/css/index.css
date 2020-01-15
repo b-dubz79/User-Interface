@@ -64,3 +64,40 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body{
+	border: 2px solid black;
+	margin: 2% auto 5% auto;
+	width: 95%;
+}
+
+.navigation a{
+	border: 1px solid gray;
+	display: inline;
+	margin: 0 4%;
+}
+
+.header{
+	
+	border: 1px solid gray;
+	width: 30%;
+	margin-top: auto;
+	margin-left: 4%;
+	font-size: 70px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	}
+
+.codepic{
+	border: 1px solid gray;
+	width: 25%;
+	display: inline-block;
+	margin-top: 5%;
+	margin-left: 20%;
+	vertical-align: middle;
+}
+.started{
+	font-size: 20px;
+	border: 2px solid gray;
+}
