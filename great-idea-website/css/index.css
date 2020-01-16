@@ -64,3 +64,77 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+body{
+	
+	margin: 2% auto 5% auto;
+	width: 95%;
+}
+
+.navigation a{
+	
+	display: inline;
+	margin: 0 4%;
+}
+
+.header{
+	
+	
+	width: 35%;
+	margin-top: 10%;
+	margin-bottom: auto;
+	margin-left: 4%;
+	font-size: 60px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	
+	}
+
+.codepic{
+	
+	width: 25%;
+	display: inline-block;
+	margin-top: 5%;
+	margin-left: 20%;
+	vertical-align: middle;
+}
+.started{
+	font-size: 20px;
+	border: 2px solid gray;
+	width: 200px;
+	display: inline-block;
+	height: 30px;
+	padding: 3px;
+	}
+.featsect{
+	display: inline-block;
+	width: 48%;
+	height: 120px;
+		}
+
+.aboutsect{
+	display: inline-block;
+	width: 48%;
+}
+.middle-img{
+	width: 100%;
+}
+.servsect{
+	display: inline-block;
+	width: 32%;
+	height: 120px;
+	}
+.prodsect{
+	display: inline-block;
+	width: 32%;
+}
+.vissect{
+	display: inline-block;
+	width: 32%;
+}
+
+.foot{
+	width: 100%;
+	text-align: center;
+}
