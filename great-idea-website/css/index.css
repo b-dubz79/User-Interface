@@ -72,14 +72,14 @@ body{
 }
 
 .navigation a{
-	border: 1px solid gray;
+	
 	display: inline;
 	margin: 0 4%;
 }
 
 .header{
 	
-	border: 1px solid gray;
+	
 	width: 30%;
 	margin-top: auto;
 	margin-left: 4%;
@@ -90,7 +90,7 @@ body{
 	}
 
 .codepic{
-	border: 1px solid gray;
+	
 	width: 25%;
 	display: inline-block;
 	margin-top: 5%;
@@ -100,4 +100,12 @@ body{
 .started{
 	font-size: 20px;
 	border: 2px solid gray;
+}
+.features{
+	border: 1px solid black;
+	
+
+}
+.about{
+	border: 1px solid black;
 }
